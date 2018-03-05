@@ -2,7 +2,7 @@ import { resolve } from 'path'
 
 module.exports = {
   head: {
-    title: 'Fashion Archive - RCHYVE',
+    title: 'nuxt-koa-starter',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' }

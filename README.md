@@ -1,6 +1,6 @@
-# rchyve
+# nuxt-koa-starter
 
-> Fashion archive website
+> Blank Nuxt.js project running with a Koa server with my preferences/settings
 
 ## Build Setup
 
